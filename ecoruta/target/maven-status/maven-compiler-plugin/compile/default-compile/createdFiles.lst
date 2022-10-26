@@ -1,0 +1,10 @@
+modelVo\RegistroVo.class
+beans\Usuario.class
+servlets\EcoServlet.class
+beans\Ordenes.class
+Controlador\Controlador.class
+model\OrdenDao.class
+modelVo\OrdenVo.class
+OperacionesBD\TransaccionesBD.class
+connection\DBConnection.class
+model\RegistroDao.class
